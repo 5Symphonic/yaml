@@ -1,0 +1,37 @@
+proxies:
+  - {name: 🇭🇰 香港_碧海plus内测 1, server: awes35lesl.blhao0o.dpdns.org, port: 12001, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 2, server: awes35lesl.blhao0o.dpdns.org, port: 12002, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 3, server: awes35lesl.blhao0o.dpdns.org, port: 12003, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 4, server: awes35lesl.blhao0o.dpdns.org, port: 12004, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 5, server: awes35lesl.blhao0o.dpdns.org, port: 12005, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 6, server: awes35lesl.blhao0o.dpdns.org, port: 12006, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 7, server: awes35lesl.blhao0o.dpdns.org, port: 12007, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 8, server: awes35lesl.blhao0o.dpdns.org, port: 12008, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 9, server: awes35lesl.blhao0o.dpdns.org, port: 12009, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇭🇰 香港_碧海plus内测 0, server: awes35lesl.blhao0o.dpdns.org, port: 12010, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇨🇳 台湾_碧海plus内测 1, server: awes35lesl.blhao0o.dpdns.org, port: 12029, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇨🇳 台湾_碧海plus内测 2, server: awes35lesl.blhao0o.dpdns.org, port: 12030, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇨🇳 台湾_碧海plus内测 3, server: awes35lesl.blhao0o.dpdns.org, port: 12031, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇨🇳 台湾_碧海plus内测 4, server: awes35lesl.blhao0o.dpdns.org, port: 12032, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇨🇳 台湾_碧海plus内测 5, server: awes35lesl.blhao0o.dpdns.org, port: 12033, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇨🇳 台湾_碧海plus内测 6, server: awes35lesl.blhao0o.dpdns.org, port: 12034, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇯🇵 日本_碧海plus内测 1, server: awes35lesl.blhao0o.dpdns.org, port: 12011, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇯🇵 日本_碧海plus内测 2, server: awes35lesl.blhao0o.dpdns.org, port: 12012, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇯🇵 日本_碧海plus内测 3, server: awes35lesl.blhao0o.dpdns.org, port: 12013, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇯🇵 日本_碧海plus内测 4, server: awes35lesl.blhao0o.dpdns.org, port: 12014, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇯🇵 日本_碧海plus内测 5, server: awes35lesl.blhao0o.dpdns.org, port: 12015, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇯🇵 日本_碧海plus内测 6, server: awes35lesl.blhao0o.dpdns.org, port: 12016, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国_碧海plus内测 1, server: awes35lesl.blhao0o.dpdns.org, port: 12023, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国_碧海plus内测 2, server: awes35lesl.blhao0o.dpdns.org, port: 12024, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国_碧海plus内测 3, server: awes35lesl.blhao0o.dpdns.org, port: 12025, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国_碧海plus内测 4, server: awes35lesl.blhao0o.dpdns.org, port: 12026, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国_碧海plus内测 5, server: awes35lesl.blhao0o.dpdns.org, port: 12027, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国_碧海plus内测 6, server: awes35lesl.blhao0o.dpdns.org, port: 12028, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇸🇬 新加坡_碧海plus内测 1, server: awes35lesl.blhao0o.dpdns.org, port: 12017, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇸🇬 新加坡_碧海plus内测 2, server: awes35lesl.blhao0o.dpdns.org, port: 12018, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇸🇬 新加坡_碧海plus内测 3, server: awes35lesl.blhao0o.dpdns.org, port: 12019, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇸🇬 新加坡_碧海plus内测 4, server: awes35lesl.blhao0o.dpdns.org, port: 12020, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇸🇬 新加坡_碧海plus内测 6, server: awes35lesl.blhao0o.dpdns.org, port: 12022, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇸🇬 新加坡_碧海plus内测 5, server: awes35lesl.blhao0o.dpdns.org, port: 12021, type: ss, cipher: aes-128-gcm, password: ea22e4fb-b1e8-49b6-a28c-353961d99ca6}
+  - {name: 🇺🇸 美国备用1, server: 120.241.44.195, port: 11511, type: ss, cipher: aes-256-gcm, password: 77a12a3d-6df0-48c8-a189-b071fcda1456}
+  - {name: 🇺🇸 美国备用2, server: 183.2.150.226, port: 11511, type: ss, cipher: aes-256-gcm, password: 77a12a3d-6df0-48c8-a189-b071fcda1456}
