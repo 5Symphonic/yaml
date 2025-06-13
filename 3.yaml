@@ -1,0 +1,4 @@
+proxies:
+- {name: "🇭🇰 [Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享", server: tfn3s.tntbooms.com, port: 50001, client-fingerprint: chrome, type: trojan, password: dec1e31a-8e51-3bed-998a-32503dc01098, sni: mmbiz.qpic.cn, skip-cert-verify: false}
+  - {name: "🇭🇰 [Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享", server: tfn3s.tntbooms.com, port: 50002, client-fingerprint: chrome, type: trojan, password: dec1e31a-8e51-3bed-998a-32503dc01098, sni: mmbiz.qpic.cn, skip-cert-verify: false}
+  - {name: "🇭🇰 [Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享", server: tfn3s.tntbooms.com, port: 50002, client-fingerprint: chrome, type: trojan, password: dec1e31a-8e51-3bed-998a-32503dc01098, sni: mmbiz.qpic.cn, skip-cert-verify: false}
